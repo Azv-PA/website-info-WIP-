@@ -1,3 +1,5 @@
-# Fix
+# Discontinued
 
-run this from cmd using cd to the dir you have saved like "cd desktop cd Filename" and main.py and it will launch since clicking it will launch it but will close after execution and you are free to modify the code how you like enjoy :)
+
+> im sorry but i cannot as of now continue to work on this so it is discontinued not that it was gonna be anything anyways but if you wanna use this just run the batch file its very simple just double click the batch file or 
+```cd website-info-WIP python main.py
